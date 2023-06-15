@@ -1,0 +1,33 @@
+.modal-wrapper {
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background-color: rgba(189, 189, 189, 0.9);
+}
+
+.modal-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    padding: 3rem;
+    border-radius: 0.5rem;
+    transform: translate(-50%, -50%);
+    max-width: 70rem;
+    background-color: #ebf3ff;
+}
+
+.reserve {
+    padding: 0.6rem;
+    margin-top: 1.5rem;
+    border: none;
+    border-radius: 0.3rem;
+    background-color: #0071c2;
+    color: #ebf3ff
+}
+
+.p {
+  font-size:medium;
+  color:cornflowerblue  
+}

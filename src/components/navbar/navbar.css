@@ -14,8 +14,13 @@
   justify-content: space-between;
 }
 
-.logo{
-  font-weight: 500;
+.logo1{
+  text-decoration: underline;
+  font-size: 32px;
+  color: aqua;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
 }
 
 .navButton{
@@ -25,3 +30,4 @@
   cursor: pointer;
   color: #003580;
 }
+
