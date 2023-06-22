@@ -6,12 +6,11 @@ This is a Hotel booking UI project made from react-app.
 
 ## Functionalities
 
-~User registration
-~User login
-~Hotel Search and react calendar
-~Hotels list
-~Hotel details
-~Book option
+*Sign Up/ Sign in page
+*Hotel Search and react calendar
+*Hotels list
+*Hotel details
+*Book option
 
 
 ## Live Site
