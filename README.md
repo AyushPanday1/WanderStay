@@ -2,6 +2,8 @@
 
 This is a Hotel booking UI project made from react-app.
 
+<img alt='coding' src= />
+
 ## Functionalities
 
 ~User registration
