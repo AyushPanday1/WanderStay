@@ -40,10 +40,8 @@ WanderStay is built using the following technologies:
 Simply clone the UI repository and install the neccessary modules using npm install.
   ```bash
    git clone https://github.com/AyushPanday1/WanderStay
-  ```bash
    npm install
-  ```bash
-  npm start
+ npm start
 
 ## Usage
 
