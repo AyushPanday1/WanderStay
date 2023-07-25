@@ -75,3 +75,8 @@ If you have any questions or feedback, feel free to reach out:
 - Email: ayush7426883261@gmail.com
 - GitHub: http://github.com/AyushPanday1
 - LinkedIn: https://www.linkedin.com/in/ayush-panday-799b3120b/
+
+## Happy Coding!
+© 2023 Ayush Panday
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
